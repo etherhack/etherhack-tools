@@ -36,4 +36,4 @@ print BIX $header;
 
 printf "Image checksum: %x\n",  $ixor;
 printf "Image filesize: %x\n",  $size;
-printf "Header checksum: %x\n", $hxor
+printf "Header checksum: %x\n", $hxor;
